@@ -60,6 +60,18 @@ border-left: 7px solid;border-image-slice: 1;
 #da{border-image: linear-gradient(lawngreen, orange);border-left: 7px solid;border-image-slice: 1;
 
 }
+#inspairing{
+    color: red;
+ }
+.search-button{text-decoration: none;
+    background-image: linear-gradient(lawngreen,red );
+    color:white;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 15px;}.
+
+
+
 
 
 
