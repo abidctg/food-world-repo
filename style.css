@@ -42,6 +42,25 @@ h3{font-size: 30px; }
     background-image: url(images/7.png);
     background-repeat:no-repeat ;
 }
+.center{color: lawngreen; text-align: center
+ ;                             }
+.pudding{color: lawngreen;}
+.coffee{color: black;   }
+.falooda{
+    color: lawngreen;
+}
+.food-width{padding-left: 10px;padding-right: 10px ;box-shadow: 15px 15px 35px lawngreen; width: 40%; margin-left: 2%;margin-right: 2%; border-radius: 10px; }
+.sweet{background-image: url(images/dream-bg.png);background-repeat: no-repeat;background-position: right; }
+#ing{border-image:linear-gradient(lawngreen, red) ;
+border-left: 7px solid;border-image-slice: 1;
+}
+#fee{border-image: linear-gradient(lawngreen,gold);border-left: 7px solid;border-image-slice: 1;
+
+}
+#da{border-image: linear-gradient(lawngreen, orange);border-left: 7px solid;border-image-slice: 1;
+
+}
+
 
 
 
