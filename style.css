@@ -13,7 +13,7 @@ h1{ font-size:50px;      }
 h3{font-size: 30px; }
 .f{color:black;  }
 .half-width{
-    width: 50%;
+    width: 45%;
     padding: 3%;
 }
 .half-width img{width: 100%; 
@@ -57,18 +57,49 @@ border-left: 7px solid;border-image-slice: 1;
 #fee{border-image: linear-gradient(lawngreen,gold);border-left: 7px solid;border-image-slice: 1;
 
 }
+.button{text-decoration: none;
+    background-image: linear-gradient(lawngreen,red );
+    color:white;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 15px;
+padding: 10px 40px;width: 20%;
+}
+
+
+
 #da{border-image: linear-gradient(lawngreen, orange);border-left: 7px solid;border-image-slice: 1;
 
 }
 #inspairing{
-    color: red;
+    color: red;text-align: center;
  }
 .search-button{text-decoration: none;
     background-image: linear-gradient(lawngreen,red );
     color:white;
     font-weight: 700;
     padding: 10px 40px;
-    border-radius: 15px;}.
+    border-radius: 15px;
+
+}
+.ten{
+    text-align: center;color:black;font-size:1.5em ;
+}
+.nine{
+    text-align: center;color: black;font-size: 1.5em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
